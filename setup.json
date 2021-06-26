@@ -1,0 +1,18 @@
+{
+      "READ_THIS": "BOT_TOKEN must be edit at .env",
+      "prefix": "gmd!",
+      "host": "http://gmd.drakunovu.xyz/database",
+      "owner": "856607992844779531",
+      "statusbot": "online",
+      "actionbot": "PLAYING",
+      "gdpsup": {
+            "READ_THIS": "change gdps, directory and turn if needed. turn is if you are using gdps song uploader use On",
+            "gdps": true,
+            "directory": "gdpsup",
+            "turn": "On"
+      },
+      "channel": {
+      "gdpsstatus": "811106609379934218",
+      "ratestatus": "811106722999566366"
+      }
+}
